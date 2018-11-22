@@ -2,6 +2,8 @@ require("dotenv").config();
 var fs = require("fs");
 var keys = require("./keys")
 var request = require("request");
+var Spotify = require('node-spotify-api');
+var spotify = new Spotify(keys.spotify);
 
 var actions = {
     CONCERT_THIS: "concert-this",
@@ -42,18 +44,18 @@ switch (command) {
 
 function concertThis(parameter) {
     // console.log("concert.function");
-    if (action === "concert-this") {
+    
+
+    if (actions === "concert-this") {
         var artistName = "";
         for (var i = 3; i < process.argv.length; i++) {
             artistName += process.argv[i];
         }
-        console.log(artistName);
     } else {
         artistName = parameter;
     }
-}
 
-var queryUrl = "https://rest.bandsintown.com/artists/" + artistName + "/events?app_id=codingbootcamp";
+    var queryUrl = "https://rest.bandsintown.com/artists/" + artistName + "/events?app_id=59ad9fc94dabf7477b668c0986587211";
 
 
 request(queryUrl, function (error, response, body) {
@@ -68,18 +70,19 @@ request(queryUrl, function (error, response, body) {
             var day = dTime.substring(8, 10);
             var dateForm = month + "/" + day + "/" + year
 
-            logIt("\n-------------------------\n");
-            logIt("Date: " + dateForm);
-            logIt("Name: " + JS[i].venue.name);
-            logIt("City: " + JS[i].venue.city);
+            console.log("\n-------------------------\n");
+            console.log("Date: " + dateForm);
+            console.log("Name: " + JS[i].venue.name);
+            console.log("City: " + JS[i].venue.city);
             if (JS[i].venue.region !== "") {
-                logIt("Country: " + JS[i].venue.region);
+                console.log("Country: " + JS[i].venue.region);
             }
-            logIt("Country: " + JS[i].venue.country);
-            logIt("\n-------------------------\n");
+            console.log("Country: " + JS[i].venue.country);
+            console.log("\n-------------------------\n");
         }
     }
 });
+}
 
 
 function spotifyThis(parameter) {
@@ -92,23 +95,33 @@ function spotifyThis(parameter) {
         searchTrack = parameter;
     }
 
+    spotify.search({ type: 'track', query: 'All the Small Things' }, function(err, data) {
+        if (err) {
+          return console.log('Error occurred: ' + err);
+        }
+       
+      console.log(data); 
+      });
+      
+
     spotify.search({
         type: "track",
         query: searchTrack
     }, function (error, data) {
         if (error) {
-            logIt("Error occurred: " + error);
+            console.log("Error occurred: " + error);
             return;
         } else {
-            logIt("\n-------------------------\n");
-            logIt("Date: " + dateForm);
-            logIt("Name: " + JS[i].venue.name);
-            logIt("City: " + JS[i].venue.city);
-            if (JS[i].venue.region !== "") {
-            logIt("Country: " + JS[i].venue.region);
-            }
-            logIt("Country: " + JS[i].venue.country);
-            logIt("\n-------------------------\n");
+            console.log("\n-------------------------\n");
+            console.log(data);
+            // console.log("Date: " + dateForm);
+            // console.log("Name: " + JS[i].venue.name);
+            // console.log("City: " + JS[i].venue.city);
+            // if (JS[i].venue.region !== "") {
+            // console.log("Country: " + JS[i].venue.region);
+//             }
+//             console.log("Country: " + JS[i].venue.country);
+//             console.log("\n-------------------------\n");
         }
     });
 };
@@ -143,6 +156,5 @@ function doWhatItSays() {
 // * A preview link of the song from Spotify
 
 // * The album that the song is from
-
 
 
