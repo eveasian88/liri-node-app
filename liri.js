@@ -37,7 +37,7 @@ switch (command) {
         // console.log("music.function");
         movieThis(parameter);
         break;
-    // 2d do-what-it-says reads information from text file and request data from somewhere and gives output - command in text file
+    // 2d do-what-it-says reads information from text file and request data from somewhere and gives output
     case actions.DO_WHAT_IT_SAYS:
         // console.log("doWhatItSays.function");
         doWhatItSays();
@@ -48,14 +48,15 @@ switch (command) {
 }
 
 function concertThis(parameter) {
-    // console.log("concert.function");
+    console.log("concert.function");
 
+    var artistName;
 
-    if (actions === "concert-this") {
-        var artistName = "";
-        for (var i = 3; i < process.argv.length; i++) {
-            artistName += process.argv[i];
-        }
+    if (parameter === undefined) {
+        artistName = "Santana";
+        // for (var i = 3; i < process.argv.length; i++) {
+        //     artistName += process.argv[i];
+        // }
     } else {
         artistName = parameter;
     }
@@ -65,70 +66,97 @@ function concertThis(parameter) {
 
     request(queryUrl, function (error, response, body) {
 
+        if (error) {
+            console.error(error)
+        }
+
+        var rawEvents = JSON.parse(body);
+
+        var eventsData = rawEvents.map(function (event) {
+            return {
+                venue: event.venue.name,
+                location: `${event.venue.city}, ${event.venue.region}`,
+                date: event.datetime,
+            }
+        } );
+
+        // var testEvent = {};
+        // testEvent.venue = JS[0].venue.name;
+        // testEvent.location = `${JS[0].venue.city}, ${JS[0].venue.region}`;
+        // testEvent.date = JS[0].datetime;
+
+        console.log(eventsData)
+
+
         if (!error && response.statusCode === 200) {
 
-            var JS = JSON.parse(body);
-            for (i = 0; i < JS.length; i++) {
-                var dTime = JS[i].datetime;
-                var month = dTime.substring(5, 7);
-                var year = dTime.substring(0, 4);
-                var day = dTime.substring(8, 10);
-                var dateForm = month + "/" + day + "/" + year
+            for (i = 0; i < eventsData.length; i++) {
 
                 logIt("===============================");
-                logIt("Date: " + dateForm);
-                logIt("Name: " + JS[i].venue.name);
-                logIt("City: " + JS[i].venue.city);
-                if (JS[i].venue.region !== "") {
-                    console.log("Country: " + JS[i].venue.region);
-                }
-                logIt("Country: " + JS[i].venue.country);
+                logIt("Date: " + eventsData[i].date);
+                logIt("Name: " + eventsData[i].venue);
+                logIt("City: " + eventsData[i].location);
                 logIt("===============================");
             }
         }
-    });
+    })
 }
 
 
 function spotifyThis(parameter) {
     // console.log(spotify.function);
     var searchTrack;
-    // if no song is provided then your program will default to "The Sign" by Ace of Base.
+    // if no song is provided then your program will default to "Hips Don't Lie".
     if (parameter === undefined) {
-        searchTrack = '"The Sign" by Ace of Base"';
+        searchTrack = "Hips Don't Lie";
     } else {
         searchTrack = parameter;
     }
 
-    spotify.search({ type: 'track', query: 'All the Small Things' }, function (error, data) {
+    spotify.search({ type: 'track', query: searchTrack }, function (error, data) {
         if (error) {
-            return console.log(data.tracks.items[0]);
+            return console.error(error);
         }
 
-        console.log(data.tracks.items)
+        var result = data.tracks.items[0]
+
+        var songData = {};
+        songData.name = data.tracks.items[0].name;
+        songData.artists = result.artists.map(function (artist) {
+            return artist.name
+        } );
+        songData.album = result.album.name;
+        songData.previewUrl = result.preview_url;
+
+        logIt("===============================");
+        logIt("Name: " + songData.name);
+        logIt("Artists: " + songData.artists[0]);
+        logIt("Album: " + songData.album);
+        logIt("Preview: " + songData.previewUrl);
+        logIt("===============================");
     });
 
 
-    spotify.search({
-        type: "track",
-        query: searchTrack
-    }, function (error, data) {
-        if (error) {
-            console.log("Error occurred: " + error);
-            return;
-        } else {
-            logIt("===============================");
-            logIt(data);
-            logIt("Date: " + dateForm);
-            logIt("Name: " + JS[i].venue.name);
-            logIt("City: " + JS[i].venue.city);
-            if (JS[i].venue.region !== "") {
-                console.log("Country: " + JS[i].venue.region);
-            }
-            logIt("Country: " + JS[i].venue.country);
-            logIt("===============================");
-        }
-    });
+    // spotify.search({
+    //     type: "track",
+    //     query: searchTrack
+    // }, function (error, data) {
+    //     if (error) {
+    //         console.log("Error occurred: " + error);
+    //         return;
+    //     } else {
+    //         logIt("===============================");
+    //         logIt(data);
+    //         logIt("Date: " + dateForm);
+    //         logIt("Name: " + JS[i].venue.name);
+    //         logIt("City: " + JS[i].venue.city);
+    //         if (JS[i].venue.region !== "") {
+    //             console.log("Country: " + JS[i].venue.region);
+    //         }
+    //         logIt("Country: " + JS[i].venue.country);
+    //         logIt("===============================");
+    //     }
+    // });
 };
 
 
@@ -136,8 +164,8 @@ function movieThis(parameter) {
     // console.log("movie.function");
    
     var findMovie;
-    if (parameteer === undefined) {
-        findMovie = "Mr. Nobody";
+    if (parameter === undefined) {
+        findMovie = "Mr. & Mrs. Smith";
     } else {
         findMovie = parameter;
     };
@@ -164,54 +192,46 @@ function movieThis(parameter) {
 
 function doWhatItSays() {
     // console.log("doWhatItSays.function");
-    fs.readFile('random.txt', "utf8", function(error, data){
+    fs.readFile('random.txt', "utf8", function (error, data) {
 
         if (error) {
             return logIt(error);
-          }
-    
+        }
+
         var dataArr = data.split(",");
-        
-        if (dataArr[0] === "spotify-this-song") 
-        {
-          var songcheck = dataArr[1].trim().slice(1, -1);
-          spotifyThis(songcheck);
-        } 
-        else if (dataArr[0] === "concert-this") 
-        { 
-          if (dataArr[1].charAt(1) === "'")
-          {
-              var dLength = dataArr[1].length - 1;
-              var data = dataArr[1].substring(2,dLength);
-              console.log(data);
-              concertThis(data);
-          }
-          else
-          {
-              var bandName = dataArr[1].trim();
-              console.log(bandName);
-              concertThis(bandName);
-          }
-            
-        } 
-        else if(dataArr[0] === "movie-this") 
-        {
-          var movieName = dataArr[1].trim().slice(1, -1);
-          movieThis(movieName);
-        } 
-        
-        });
+
+        if (dataArr[0] === "spotify-this-song") {
+            var songcheck = dataArr[1].trim().slice(1, -1);
+            spotifyThis(songcheck);
+        }
+        else if (dataArr[0] === "concert-this") {
+            if (dataArr[1].charAt(1) === "'") {
+                var dLength = dataArr[1].length - 1;
+                var data = dataArr[1].substring(2, dLength);
+                console.log(data);
+                concertThis(data);
+            }
+            else {
+                var bandName = dataArr[1].trim();
+                console.log(bandName);
+                concertThis(bandName);
+            }
+        }
+        else if (dataArr[0] === "movie-this") {
+            var movieName = dataArr[1].trim().slice(1, -1);
+            movieThis(movieName);
+        }
+    });
+
+};
+
+function logIt(dataToLog) {
+
+    console.log(dataToLog);
+
+    fs.appendFile('log.txt', dataToLog + '\n', function (error) {
+
+        if (error) return logIt('Error logging data to file: ' + error);
+    });
+}
     
-    };
-    
-    function logIt(dataToLog) {
-    
-        console.log(dataToLog);
-    
-        fs.appendFile('log.txt', dataToLog + '\n', function(error) {
-            
-            if (error) return logIt('Error logging data to file: ' + error);	
-        });
-    }
-    
-switch();
