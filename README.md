@@ -8,9 +8,9 @@ Command Format: 'command' 'search phrase'
 ### concert-this 'band name'
 
 This takes the band name entered and runs it through the bands in town API and returns concert information for that particular band. The following is logged in the terminal:
-- Name of Venue
-- Venue Location 
 - Date of the Concert
+- Venue Name
+- Venue Location 
 
 ![alt text](images/concert-this.gif "Santana Concert Search")
 
@@ -19,8 +19,8 @@ This takes the band name entered and runs it through the bands in town API and r
 This takes the song title entered and runs it through the spotify API. The following is logged to the terminal:
 - Artist
 - Song Title
-- Spotify Preview Link
 - Album
+- Spotify Preview Link
 
 ![alt text](images/spotify-this-song.gif "Spotify Song Search")
 
@@ -34,10 +34,16 @@ This takes the movie title entered and runs it through the OMDB API and returns:
 - Countries Where Movie was Produced
 - Language
 - Plot
-- Actor
+- Actors
 
 ![alt text](images/movie-this.gif "Movie Search")
 
 ### do-what-it-says 'random text'
+
+This takes the information in the random.txt file and gives the following output:
+- Name: I Want It That Way
+- Artists: Backstreet Boys
+- Album: The Hits--Chapter One
+- Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=448e50065993424181d21715b160242b
 
 ![alt text](images/do-what-it-says.gif "Random Text Search")
