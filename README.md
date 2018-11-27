@@ -12,7 +12,7 @@ This takes the band name entered and runs it through the bands in town API and r
 - Venue Location 
 - Date of the Concert
 
-![alt text](screenshots/concert-this.gif "Santana Search")
+![alt text](images/concert-this.gif "Santana Concert Search")
 
 ## spotify-this-song 'song title'
 
