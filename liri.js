@@ -78,7 +78,7 @@ function concertThis(parameter) {
                 location: `${event.venue.city}, ${event.venue.region}`,
                 date: event.datetime,
             }
-        } );
+        });
 
         // var testEvent = {};
         // testEvent.venue = JS[0].venue.name;
@@ -124,7 +124,7 @@ function spotifyThis(parameter) {
         songData.name = data.tracks.items[0].name;
         songData.artists = result.artists.map(function (artist) {
             return artist.name
-        } );
+        });
         songData.album = result.album.name;
         songData.previewUrl = result.preview_url;
 
@@ -162,7 +162,7 @@ function spotifyThis(parameter) {
 
 function movieThis(parameter) {
     // console.log("movie.function");
-   
+
     var findMovie;
     if (parameter === undefined) {
         findMovie = "Mr. & Mrs. Smith";
@@ -234,4 +234,4 @@ function logIt(dataToLog) {
         if (error) return logIt('Error logging data to file: ' + error);
     });
 }
-    
+
