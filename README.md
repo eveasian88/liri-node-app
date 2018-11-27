@@ -1,15 +1,15 @@
 # liri-node-app
 
-LIRI is a Node.js application that takes in a command along with a search phrase and returns information based on the command entered. The commands it recognizes are: 
+LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line Node.js application that takes in parameters and give you back data. The commands it recognizes are: 
 - concert-this
 - spotify-this-song 
 - movie-this 
 - do-what-it-says
 
-Command Format: 'command' 'search phrase'
+Command Format: 'node liri.js concert-this' 'artist'
 
 
-## concert-this 'band name'
+## concert-this 'artist/band name'
 
 This takes the band name entered and runs it through the bands in town API and returns concert information for that particular band. The following is logged in the terminal:
 - Date of the Concert
@@ -30,7 +30,7 @@ This takes the song title entered and runs it through the spotify API. The follo
 
 ## movie-this 'movie title'
 
-This takes the movie title entered and runs it through the OMDB API and returns the following:
+This takes the movie title entered and runs it through the OMDB API and returns the following information:
 - Movie Title
 - Year Released
 - IMDB Rating
@@ -44,7 +44,7 @@ This takes the movie title entered and runs it through the OMDB API and returns 
 
 ## do-what-it-says 'random text'
 
-This takes the information in the random.txt file and returns the following:
+This takes the information in the random.txt file and returns the following information:
 - Name: I Want It That Way
 - Artists: Backstreet Boys
 - Album: The Hits--Chapter One
