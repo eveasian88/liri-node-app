@@ -1,6 +1,6 @@
 # liri-node-app
 
-LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line Node.js application that takes in certain parameters and gives you back data. LIRI recognizes the four commands: - concert-this - spotify-this-song - movie-this - do-what-it-says
+LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line Node.js application that takes in certain parameters and gives you back data. LIRI recognizes four commands:  • concert-this  • spotify-this-song  • movie-this  • do-what-it-says
 
 Command Format: "node liri.js", "a command it recognizes", and "artist/song/movie title"
 
