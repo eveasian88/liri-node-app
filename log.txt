@@ -1360,3 +1360,235 @@ City: Lake Buena Vista, FL
 Date: 2019-03-01T20:00:24
 ===============================
 ===============================
+===============================
+Date: 2018-12-07T20:00:00
+Name: AmericanAirlines Arena
+City: Miami, FL
+===============================
+Name: ANFITEATRO DEL PARQUE DE LA EXPOSICION
+===============================
+===============================
+Date: 2019-05-10T21:00:00
+Name: Movistar Arena
+City: Movistar Arena, 
+===============================
+Date: 2019-05-09T22:00:00
+===============================
+City: Lima, 
+===============================
+Date: 2019-03-15T21:00:00
+Name: Auditorio Pabellón M
+===============================
+===============================
+City: Monterrey, 
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+City: Mexico, 
+===============================
+===============================
+Date: 2019-03-15T21:00:00
+Name: Auditorio Pabellón M
+City: Monterrey, 
+===============================
+===============================
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+City: Mexico, 
+===============================
+===============================
+Date: 2018-12-14T21:00:00
+Name: House of Blues New Orleans presented by Cricket Wireless
+City: New Orleans, LA
+===============================
+===============================
+Date: 2019-01-23T19:00:00
+Name: House of Blues Las Vegas
+===============================
+City: Las Vegas, NV
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+===============================
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-27T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-26T19:00:00
+Date: 2019-01-25T19:00:00
+Date: 2019-01-30T19:00:00
+Name: House of Blues Las Vegas
+===============================
+Date: 2019-01-31T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+City: Las Vegas, NV
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-02-02T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+City: Mexico, 
+===============================
+===============================
+Date: 2019-03-19T21:00:00
+Name: Acrópolis Puebla
+City: Puebla, 
+===============================
+===============================
+Date: 2019-03-21T21:00:00
+Name: Auditorio Telmex
+City: Zapopan, 
+===============================
+===============================
+Date: 2019-03-22T14:00:00
+Name: Parque Fundidora
+City: Monterrey, 
+===============================
+===============================
+Date: 2019-04-18T20:00:00
+Name: Al Lang Stadium
+City: St Petersburg, FL
+===============================
+===============================
+Date: 2019-04-19T20:00:00
+Name: Piano Hollywood
+City: Hollywood, FL
+===============================
+===============================
+Date: 2019-04-20T20:00:00
+Name: St. Augustine Amphitheatre
+City: St Augustine, FL
+===============================
+===============================
+Date: 2019-04-22T19:30:00
+Name: Grand Ole Opry
+City: Nashville, TN
+===============================
+Name: House of Blues Las Vegas
+Date: 2019-04-24T20:00:00
+Name: Verizon Wireless Amphitheatre at Encore Park
+City: Alpharetta, GA
+===============================
+===============================
+Date: 2019-04-28T19:30:00
+===============================
+City: Rogers, AR
+===============================
+===============================
+Date: 2019-05-15T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-17T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-18T19:00:00
+Name: House of Blues Las Vegas
+Date: 2019-02-01T19:00:00
+===============================
+===============================
+Date: 2019-05-19T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-22T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+===============================
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-25T19:00:00
+Name: House of Blues Las Vegas
+Name: The Arkansas Music Pavilion
+===============================
+Date: 2019-05-24T19:00:00
+Date: 2019-05-26T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+City: Las Vegas, NV
+===============================
+City: Las Vegas, NV
+===============================
+Name: Hips Don't Lie
+Preview: https://p.scdn.co/mp3-preview/3859547944f57cfb7b996f6551148c9467889d4b?cid=448e50065993424181d21715b160242b
+Artists: Shakira
+===============================
+Album: Oral Fixation Vol. 2
+===============================
+Name: Hips Don't Lie
+Artists: Shakira
+Album: Oral Fixation Vol. 2
+Preview: https://p.scdn.co/mp3-preview/3859547944f57cfb7b996f6551148c9467889d4b?cid=448e50065993424181d21715b160242b
+===============================
+===============================
+Title: Mr. & Mrs. Smith
+Release Year: 2005
+IMDB Rating: 6.5
+Rotten Tomatoes Rating: 59%
+Country: USA
+Language: English, Spanish
+Actors: Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody
+Plot: A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.
+===============================
+===============================
+Title: Bend It Like Beckham
+Release Year: 2002
+IMDB Rating: 6.7
+Rotten Tomatoes Rating: 85%
+Country: UK, Germany, USA
+Language: English, Punjabi, Hindi, German
+Plot: The daughter of orthodox Sikh rebels against her parents' traditionalism and joins a football team.
+Actors: Parminder Nagra, Keira Knightley, Jonathan Rhys Meyers, Anupam Kher
+===============================
+===============================
+Title: Batman Returns
+Release Year: 1992
+IMDB Rating: 7.0
+Country: USA, UK
+Language: English
+Rotten Tomatoes Rating: 79%
+Actors: Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken
+Plot: When a corrupt businessman and the grotesque Penguin plot to take control of Gotham City, only Batman can stop them, while the Catwoman has her own agenda.
+===============================
+===============================
+Title: Wonder Woman
+Release Year: 2017
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 93%
+Country: USA, China, Hong Kong
+Language: English, German, Dutch, French, Spanish, Chinese, Greek,  Ancient (to 1453), North American Indian
+Plot: When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.
+Actors: Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright
+===============================
+===============================
+Title: The Terminator
+Release Year: 1984
+Rotten Tomatoes Rating: 100%
+Country: UK, USA
+Language: English, Spanish
+IMDB Rating: 8.0
+Plot: A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.
+Actors: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield
+===============================
