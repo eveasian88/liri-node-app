@@ -527,3 +527,264 @@ Plot: The daughter of orthodox Sikh rebels against her parents' traditionalism a
 Actors: Parminder Nagra, Keira Knightley, Jonathan Rhys Meyers, Anupam Kher
 ===============================
 Country: UK, Germany, USA
+===============================
+Date: 2018-12-14T21:00:00
+City: New Orleans, LA
+Name: House of Blues New Orleans presented by Cricket Wireless
+===============================
+===============================
+===============================
+===============================
+Date: 2019-01-25T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-26T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-27T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-30T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-31T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-02-01T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-02-02T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+City: Las Vegas, NV
+===============================
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+City: Mexico, 
+===============================
+===============================
+Date: 2019-03-19T21:00:00
+Name: Acrópolis Puebla
+City: Puebla, 
+===============================
+===============================
+Date: 2019-03-21T21:00:00
+Name: Auditorio Telmex
+City: Zapopan, 
+===============================
+===============================
+Date: 2019-03-22T14:00:00
+Name: Parque Fundidora
+City: Monterrey, 
+===============================
+===============================
+Date: 2019-04-18T20:00:00
+Name: Al Lang Stadium
+City: St Petersburg, FL
+===============================
+===============================
+Date: 2019-04-19T20:00:00
+Name: Piano Hollywood
+City: Hollywood, FL
+===============================
+===============================
+Date: 2019-04-20T20:00:00
+Name: St. Augustine Amphitheatre
+City: St Augustine, FL
+===============================
+===============================
+Date: 2019-04-22T19:30:00
+Name: Grand Ole Opry
+City: Nashville, TN
+===============================
+===============================
+Date: 2019-04-24T20:00:00
+Name: Verizon Wireless Amphitheatre at Encore Park
+City: Alpharetta, GA
+===============================
+===============================
+Date: 2019-04-28T19:30:00
+Name: The Arkansas Music Pavilion
+City: Rogers, AR
+===============================
+===============================
+Date: 2019-05-15T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-17T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-18T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-19T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-22T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-24T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-25T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-26T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+Name: House of Blues Las Vegas
+Date: 2019-01-23T19:00:00
+===============================
+===============================
+Name: Hips Don't Lie
+Artists: Shakira
+Preview: https://p.scdn.co/mp3-preview/3859547944f57cfb7b996f6551148c9467889d4b?cid=448e50065993424181d21715b160242b
+Album: Oral Fixation Vol. 2
+===============================
+===============================
+Name: Candela
+Artists: Eladio Carrion
+Album: Candela
+Preview: https://p.scdn.co/mp3-preview/e50b97632e16500dde25ecad4a8f93b0267bf2d5?cid=448e50065993424181d21715b160242b
+===============================
+===============================
+Name: Oye Como Va
+Album: Abraxas
+Preview: https://p.scdn.co/mp3-preview/e7d3fe34bb3ecea714f0a7ecc707023fb2e36522?cid=448e50065993424181d21715b160242b
+Artists: Santana
+===============================
+===============================
+Name: Blank Space
+Artists: Taylor Swift
+Album: 1989
+Preview: null
+===============================
+===============================
+Name: All of Me
+Preview: https://p.scdn.co/mp3-preview/488c53471e56ff9f629652691444438951e880bb?cid=448e50065993424181d21715b160242b
+Album: Love In The Future (Expanded Edition)
+Artists: John Legend
+===============================
+===============================
+Name: No Te Pido Flores
+Artists: Margarita la diosa de la cumbia
+Preview: null
+Album: Tentaciones
+===============================
+===============================
+Name: Wildest Dreams
+Artists: Taylor Swift
+Album: 1989
+Preview: null
+===============================
+===============================
+Name: Déjame Entrar
+Album: Cuando Los Ángeles Lloran
+Artists: Maná
+Preview: https://p.scdn.co/mp3-preview/ffa937d00b6697cf2c2d4aea3c749c6bb44a5d87?cid=448e50065993424181d21715b160242b
+===============================
+===============================
+Name: Make You Feel My Love
+Album: 19
+===============================
+Preview: https://p.scdn.co/mp3-preview/7a165b92d60630afcb5a8fecf97f6dd379c2f6f1?cid=448e50065993424181d21715b160242b
+Artists: Adele
+===============================
+Title: Bend It Like Beckham
+Release Year: 2002
+Rotten Tomatoes Rating: 85%
+IMDB Rating: 6.7
+Country: UK, Germany, USA
+Language: English, Punjabi, Hindi, German
+Plot: The daughter of orthodox Sikh rebels against her parents' traditionalism and joins a football team.
+Actors: Parminder Nagra, Keira Knightley, Jonathan Rhys Meyers, Anupam Kher
+===============================
+===============================
+Title: Batman Returns
+Release Year: 1992
+IMDB Rating: 7.0
+Rotten Tomatoes Rating: 79%
+Country: USA, UK
+Language: English
+Plot: When a corrupt businessman and the grotesque Penguin plot to take control of Gotham City, only Batman can stop them, while the Catwoman has her own agenda.
+Actors: Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken
+===============================
+===============================
+Title: Wonder Woman
+Release Year: 2017
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 93%
+Country: USA, China, Hong Kong
+Language: English, German, Dutch, French, Spanish, Chinese, Greek,  Ancient (to 1453), North American Indian
+Plot: When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.
+Actors: Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright
+===============================
+===============================
+Title: The Terminator
+Release Year: 1984
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 100%
+Country: UK, USA
+Language: English, Spanish
+Plot: A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.
+Actors: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield
+===============================
+===============================
+Title: The Thing
+Release Year: 1982
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 83%
+Country: USA
+Language: English, Norwegian
+Plot: A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
+Actors: Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon
+===============================
+===============================
+Release Year: 2016
+Title: Deadpool
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 84%
+Country: USA
+Plot: A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.
+Language: English
+Actors: Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer
+===============================
+===============================
+Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=448e50065993424181d21715b160242b
+===============================
+Artists: Backstreet Boys
+Album: The Hits--Chapter One
+===============================
+Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=448e50065993424181d21715b160242b
+Album: The Hits--Chapter One
+Artists: Backstreet Boys
+===============================
