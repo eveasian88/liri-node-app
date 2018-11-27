@@ -51,7 +51,7 @@ function concertThis(parameter) {
     console.log("concert.function");
 
     var artistName;
-    // if no artost is provided then program will default to "Santana"
+    // if no artist is provided then program will default to "Santana"
     if (parameter === undefined) {
         artistName = "Santana";
         // for (var i = 3; i < process.argv.length; i++) {
