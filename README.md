@@ -40,4 +40,4 @@ This takes the movie title entered and runs it through the OMDB API and returns:
 
 ## do-what-it-says 'random text'
 
-![alt text](images/do-what-it-says.gif "Random Text Search")
+![alt text](images/do-what-it-says.png "Random Text Search")
