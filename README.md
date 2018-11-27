@@ -18,8 +18,8 @@ This parameter takes the band name entered and runs it through the bands in town
 ## spotify-this-song "song title"
 
 This parameter takes the song title entered and runs it through the Spotify API. The following is logged to the terminal:
-- Artist
 - Song Title
+- Artist
 - Album
 - Spotify Preview Link
 
