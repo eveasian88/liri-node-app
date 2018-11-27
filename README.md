@@ -1,25 +1,25 @@
 # liri-node-app
 
-LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line Node.js application that takes in certain parameters and give you back data. The commands LIRI recognizes are: 
+LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line Node.js application that takes in certain parameters and gives you back data. LIRI recognizes the four commands below: 
 - concert-this
 - spotify-this-song 
 - movie-this 
 - do-what-it-says
 
-Command Format: "node liri.js" + "a command it recognizes" + "artist/song/ movie title"
+Command Format: "node liri.js", "a command it recognizes", and "artist/song/movie title"
 
 
-## concert-this 'artist/band name'
+## concert-this "artist/band name"
 
 This parameter takes the band name entered and runs it through the bands in town API and returns concert information for that particular band. The following is logged in the terminal:
 - Date of the Concert
 - Venue Name
 - Venue Location 
 
-![alt text](images/concert-this.gif "Santana Concert Search")
+![alt text](images/concert-this.gif "Concert Search")
 
 
-## spotify-this-song 'song title'
+## spotify-this-song "song title"
 
 This parameter takes the song title entered and runs it through the Spotify API. The following is logged to the terminal:
 - Artist
@@ -30,7 +30,7 @@ This parameter takes the song title entered and runs it through the Spotify API.
 ![alt text](images/spotify-this-song.gif "Spotify Song Search")
 
 
-## movie-this 'movie title'
+## movie-this "movie title"
 
 This paramter takes the movie title entered and runs it through the OMDB API and returns the following information:
 - Movie Title
@@ -45,7 +45,7 @@ This paramter takes the movie title entered and runs it through the OMDB API and
 ![alt text](images/movie-this.gif "Movie Search")
 
 
-## do-what-it-says 'random text'
+## do-what-it-says "random text"
 
 This parameter takes the information in the random.txt file and returns the following information:
 - Name: I Want It That Way
