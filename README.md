@@ -5,7 +5,7 @@ LIRI is a Node.js application that takes in a command along with a search phrase
 Command Format: 'command' 'search phrase'
 
 
-## concert-this 'band name'
+### concert-this 'band name'
 
 This takes the band name entered and runs it through the bands in town API and returns concert information for that particular band. The following is logged in the terminal:
 - Name of Venue
@@ -14,7 +14,7 @@ This takes the band name entered and runs it through the bands in town API and r
 
 ![alt text](images/concert-this.gif "Santana Concert Search")
 
-## spotify-this-song 'song title'
+### spotify-this-song 'song title'
 
 This takes the song title entered and runs it through the spotify API. The following is logged to the terminal:
 - Artist
@@ -24,7 +24,7 @@ This takes the song title entered and runs it through the spotify API. The follo
 
 ![alt text](images/spotify-this-song.gif "Spotify Song Search")
 
-## movie-this 'movie title'
+### movie-this 'movie title'
 
 This takes the movie title entered and runs it through the OMDB API and returns:
 - Movie Title
@@ -38,6 +38,6 @@ This takes the movie title entered and runs it through the OMDB API and returns:
 
 ![alt text](images/movie-this.gif "Movie Search")
 
-## do-what-it-says 'random text'
+### do-what-it-says 'random text'
 
 ![alt text](images/do-what-it-says.gif "Random Text Search")
