@@ -22,6 +22,7 @@ This takes the song title entered and runs it through the spotify API. The follo
 - Spotify Preview Link
 - Album
 
+![alt text](images/spotify-this-song.gif "Spotify Song Search")
 
 ## movie-this 'movie title'
 
@@ -35,4 +36,8 @@ This takes the movie title entered and runs it through the OMDB API and returns:
 - Plot
 - Actor
 
+![alt text](images/movie-this.gif "Movie Search")
+
 ## do-what-it-says 'random text'
+
+![alt text](images/do-what-it-says.gif "Random Text Search")
