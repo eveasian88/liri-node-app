@@ -1,26 +1,27 @@
 # liri-node-app
 
-LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line Node.js application that takes in parameters and give you back data. The commands it recognizes are: 
+LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line Node.js application that takes in certain parameters and give you back data. The commands LIRI recognizes are: 
 - concert-this
 - spotify-this-song 
 - movie-this 
 - do-what-it-says
 
-Command Format: 'node liri.js concert-this' 'artist'
+Command Format: "node liri.js" + "a command it recognizes" + "artist/song/ movie title"
 
 
 ## concert-this 'artist/band name'
 
-This takes the band name entered and runs it through the bands in town API and returns concert information for that particular band. The following is logged in the terminal:
+This parameter takes the band name entered and runs it through the bands in town API and returns concert information for that particular band. The following is logged in the terminal:
 - Date of the Concert
 - Venue Name
 - Venue Location 
 
 ![alt text](images/concert-this.gif "Santana Concert Search")
 
+
 ## spotify-this-song 'song title'
 
-This takes the song title entered and runs it through the spotify API. The following is logged to the terminal:
+This parameter takes the song title entered and runs it through the Spotify API. The following is logged to the terminal:
 - Artist
 - Song Title
 - Album
@@ -28,9 +29,10 @@ This takes the song title entered and runs it through the spotify API. The follo
 
 ![alt text](images/spotify-this-song.gif "Spotify Song Search")
 
+
 ## movie-this 'movie title'
 
-This takes the movie title entered and runs it through the OMDB API and returns the following information:
+This paramter takes the movie title entered and runs it through the OMDB API and returns the following information:
 - Movie Title
 - Year Released
 - IMDB Rating
@@ -42,9 +44,10 @@ This takes the movie title entered and runs it through the OMDB API and returns 
 
 ![alt text](images/movie-this.gif "Movie Search")
 
+
 ## do-what-it-says 'random text'
 
-This takes the information in the random.txt file and returns the following information:
+This parameter takes the information in the random.txt file and returns the following information:
 - Name: I Want It That Way
 - Artists: Backstreet Boys
 - Album: The Hits--Chapter One

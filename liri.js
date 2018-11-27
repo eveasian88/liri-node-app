@@ -51,7 +51,7 @@ function concertThis(parameter) {
     console.log("concert.function");
 
     var artistName;
-
+    // if no artost is provided then program will default to "Santana"
     if (parameter === undefined) {
         artistName = "Santana";
         // for (var i = 3; i < process.argv.length; i++) {
@@ -87,7 +87,6 @@ function concertThis(parameter) {
 
         console.log(eventsData)
 
-
         if (!error && response.statusCode === 200) {
 
             for (i = 0; i < eventsData.length; i++) {
@@ -105,8 +104,9 @@ function concertThis(parameter) {
 
 function spotifyThis(parameter) {
     // console.log(spotify.function);
+
     var searchTrack;
-    // if no song is provided then your program will default to "Hips Don't Lie".
+    // if no song is provided then program will default to "Hips Don't Lie"
     if (parameter === undefined) {
         searchTrack = "Hips Don't Lie";
     } else {
@@ -135,28 +135,6 @@ function spotifyThis(parameter) {
         logIt("Preview: " + songData.previewUrl);
         logIt("===============================");
     });
-
-
-    // spotify.search({
-    //     type: "track",
-    //     query: searchTrack
-    // }, function (error, data) {
-    //     if (error) {
-    //         console.log("Error occurred: " + error);
-    //         return;
-    //     } else {
-    //         logIt("===============================");
-    //         logIt(data);
-    //         logIt("Date: " + dateForm);
-    //         logIt("Name: " + JS[i].venue.name);
-    //         logIt("City: " + JS[i].venue.city);
-    //         if (JS[i].venue.region !== "") {
-    //             console.log("Country: " + JS[i].venue.region);
-    //         }
-    //         logIt("Country: " + JS[i].venue.country);
-    //         logIt("===============================");
-    //     }
-    // });
 };
 
 
@@ -164,6 +142,7 @@ function movieThis(parameter) {
     // console.log("movie.function");
 
     var findMovie;
+    // if no movie is provided then program will default to "Mr. & Mrs. Smith"
     if (parameter === undefined) {
         findMovie = "Mr. & Mrs. Smith";
     } else {
@@ -192,8 +171,8 @@ function movieThis(parameter) {
 
 function doWhatItSays() {
     // console.log("doWhatItSays.function");
-    fs.readFile('random.txt', "utf8", function (error, data) {
 
+    fs.readFile('random.txt', "utf8", function (error, data) {
         if (error) {
             return logIt(error);
         }

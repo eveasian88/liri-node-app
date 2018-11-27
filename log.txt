@@ -929,3 +929,434 @@ Date: 2019-05-26T19:00:00
 Name: House of Blues Las Vegas
 City: Las Vegas, NV
 ===============================
+===============================
+Date: 2018-12-14T21:00:00
+===============================
+Date: 2019-01-23T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-25T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-26T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-27T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-30T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+Name: House of Blues New Orleans presented by Cricket Wireless
+===============================
+Date: 2019-01-31T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-02-01T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-02-02T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+City: Mexico, 
+===============================
+===============================
+Date: 2019-03-19T21:00:00
+Name: Acrópolis Puebla
+City: Puebla, 
+===============================
+===============================
+Date: 2019-03-21T21:00:00
+City: New Orleans, LA
+===============================
+===============================
+===============================
+City: Zapopan, 
+Name: Parque Fundidora
+City: Monterrey, 
+===============================
+===============================
+Date: 2019-04-18T20:00:00
+Name: Al Lang Stadium
+===============================
+===============================
+Date: 2019-03-22T14:00:00
+Date: 2019-04-19T20:00:00
+Name: Auditorio Telmex
+City: Hollywood, FL
+===============================
+===============================
+Date: 2019-04-20T20:00:00
+City: St Petersburg, FL
+City: St Augustine, FL
+===============================
+===============================
+Date: 2019-04-22T19:30:00
+Name: Grand Ole Opry
+City: Nashville, TN
+===============================
+===============================
+Date: 2019-04-24T20:00:00
+Name: Piano Hollywood
+City: Alpharetta, GA
+===============================
+===============================
+Date: 2019-04-28T19:30:00
+Name: The Arkansas Music Pavilion
+City: Rogers, AR
+===============================
+Name: St. Augustine Amphitheatre
+Date: 2019-05-15T19:00:00
+===============================
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-17T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-18T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Name: Verizon Wireless Amphitheatre at Encore Park
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+Name: House of Blues Las Vegas
+===============================
+Date: 2019-05-19T19:00:00
+===============================
+===============================
+Name: House of Blues Las Vegas
+Date: 2019-05-24T19:00:00
+Date: 2019-05-22T19:00:00
+===============================
+City: Las Vegas, NV
+Name: House of Blues Las Vegas
+Date: 2019-05-25T19:00:00
+Name: House of Blues Las Vegas
+===============================
+===============================
+===============================
+Date: 2019-05-26T19:00:00
+City: Las Vegas, NV
+City: Las Vegas, NV
+===============================
+Name: House of Blues Las Vegas
+===============================
+City: Las Vegas, NV
+===============================
+Preview: https://p.scdn.co/mp3-preview/3859547944f57cfb7b996f6551148c9467889d4b?cid=448e50065993424181d21715b160242b
+===============================
+Album: Oral Fixation Vol. 2
+Name: Hips Don't Lie
+Artists: Shakira
+===============================
+Date: 2018-12-14T21:00:00
+Name: House of Blues New Orleans presented by Cricket Wireless
+City: New Orleans, LA
+===============================
+===============================
+Date: 2019-01-23T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-25T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-26T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-27T19:00:00
+Name: House of Blues Las Vegas
+===============================
+City: Las Vegas, NV
+===============================
+Date: 2019-01-30T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-31T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-02-01T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-02-02T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+City: Mexico, 
+===============================
+===============================
+Date: 2019-03-19T21:00:00
+Name: Acrópolis Puebla
+City: Puebla, 
+===============================
+===============================
+Date: 2019-03-21T21:00:00
+Name: Auditorio Telmex
+City: Zapopan, 
+===============================
+===============================
+Date: 2019-03-22T14:00:00
+Name: Parque Fundidora
+City: Monterrey, 
+===============================
+===============================
+Date: 2019-04-18T20:00:00
+Name: Al Lang Stadium
+City: St Petersburg, FL
+===============================
+===============================
+Date: 2019-04-19T20:00:00
+Name: Piano Hollywood
+City: Hollywood, FL
+===============================
+===============================
+Date: 2019-04-20T20:00:00
+Name: St. Augustine Amphitheatre
+City: St Augustine, FL
+===============================
+===============================
+Date: 2019-04-22T19:30:00
+Name: Grand Ole Opry
+City: Nashville, TN
+===============================
+===============================
+Date: 2019-04-24T20:00:00
+Name: Verizon Wireless Amphitheatre at Encore Park
+City: Alpharetta, GA
+===============================
+===============================
+Date: 2019-04-28T19:30:00
+Name: The Arkansas Music Pavilion
+City: Rogers, AR
+===============================
+Date: 2019-05-15T19:00:00
+Name: House of Blues Las Vegas
+===============================
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-17T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-18T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-19T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-22T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-24T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-25T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-26T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2018-12-07T20:00:00
+Name: AmericanAirlines Arena
+City: Miami, FL
+===============================
+===============================
+Date: 2019-05-09T22:00:00
+Name: ANFITEATRO DEL PARQUE DE LA EXPOSICION
+===============================
+City: Lima, 
+City: Movistar Arena, 
+===============================
+===============================
+Date: 2019-05-10T21:00:00
+Name: Movistar Arena
+===============================
+Name: Auditorio Pabellón M
+City: Monterrey, 
+Date: 2019-03-15T21:00:00
+===============================
+===============================
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+===============================
+City: Mexico, 
+===============================
+Date: 2019-03-15T21:00:00
+City: Monterrey, 
+Name: Auditorio Pabellón M
+===============================
+===============================
+Name: Foro Sol
+City: Mexico, 
+===============================
+Date: 2019-03-16T19:00:00
+===============================
+Date: 2019-03-15T21:00:00
+Name: Auditorio Pabellón M
+City: Monterrey, 
+===============================
+===============================
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+City: Mexico, 
+===============================
+===============================
+Date: 2019-09-13T20:00:00
+Name: Valley View Casino Center
+===============================
+City: San Diego, CA
+===============================
+City: Movistar Arena, 
+===============================
+Date: 2019-11-15T21:30:00
+Name: Movistar Arena
+===============================
+===============================
+===============================
+Date: 2019-11-22T21:30:00
+Name: Movistar Arena
+City: Movistar Arena, 
+===============================
+===============================
+Date: 2019-11-23T21:30:00
+City: Movistar Arena, 
+City: Movistar Arena, 
+===============================
+Name: Movistar Arena
+Date: 2019-11-16T21:30:00
+Name: Movistar Arena
+===============================
+Date: 2018-12-01T19:00:23
+Name: N/A
+City: Asuncion, 
+===============================
+===============================
+Date: 2018-12-03T19:00:15
+City: Montevideo, 
+===============================
+===============================
+Date: 2018-12-07T19:00:48
+Name: Hipódromo de Palermo 
+Name: Teatro de Verano
+===============================
+City: Buenos Aires, 
+===============================
+Name: Movistar Arena 
+City: Santiago, 
+===============================
+===============================
+Date: 2018-12-09T20:00:00
+Date: 2018-12-11T19:00:56
+Name: Teatro al Aire Libre.
+City: La Paz, 
+Date: 2018-12-12T19:00:34
+Name: Estadio Real Santa Cruz
+City: Santa Cruz, 
+===============================
+Date: 2019-01-24T20:00:43
+Name: Hidalgo Arena
+City: Mcallen, TX
+===============================
+===============================
+Date: 2019-01-25T20:00:37
+Name: Smart Financial Credit Union
+City: Houston, TX
+===============================
+===============================
+Date: 2019-01-26T20:00:46
+Name: Fair Park
+City: Dallas, TX
+===============================
+===============================
+Date: 2019-01-27T20:00:00
+Name: The Coliseum
+City: El Paso, TX
+===============================
+===============================
+Date: 2019-02-16T20:00:08
+Name: City National Civic
+City: San Jose, CA
+===============================
+===============================
+Date: 2019-02-17T20:00:51
+===============================
+City: Los Angeles, CA
+===============================
+===============================
+Date: 2019-02-21T19:00:40
+Name: House of Blues Boston
+City: Boston, MA
+===============================
+===============================
+Date: 2019-02-22T20:00:00
+Name: Rosemont Theatre
+City: Rosemont, IL
+===============================
+===============================
+Date: 2019-02-23T20:00:20
+Name: United Palace Theatre 
+City: New York, NY
+===============================
+Name: Microsoft Theater
+===============================
+Name: American Airlines Arena
+City: Miami, FL
+===============================
+===============================
+Date: 2019-03-02T20:00:45
+Name: House of Blues Orlando
+City: Lake Buena Vista, FL
+===============================
+Date: 2019-03-01T20:00:24
+===============================
+===============================
