@@ -1592,3 +1592,154 @@ IMDB Rating: 8.0
 Plot: A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.
 Actors: Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield
 ===============================
+===============================
+===============================
+===============================
+Date: 2019-01-23T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-25T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-26T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-27T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-01-30T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Name: House of Blues New Orleans presented by Cricket Wireless
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-02-01T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+Date: 2019-01-31T19:00:00
+City: New Orleans, LA
+Name: House of Blues Las Vegas
+===============================
+===============================
+Date: 2018-12-14T21:00:00
+City: Las Vegas, NV
+Date: 2019-02-02T19:00:00
+Name: Foro Sol
+===============================
+City: Mexico, 
+===============================
+Name: Acrópolis Puebla
+City: Puebla, 
+===============================
+===============================
+Date: 2019-03-21T21:00:00
+Name: Auditorio Telmex
+City: Zapopan, 
+===============================
+Date: 2019-03-19T21:00:00
+Date: 2019-03-22T14:00:00
+===============================
+City: Monterrey, 
+Date: 2019-03-16T19:00:00
+Name: Parque Fundidora
+Date: 2019-04-18T20:00:00
+Name: Al Lang Stadium
+City: St Petersburg, FL
+===============================
+===============================
+Date: 2019-04-19T20:00:00
+Name: Piano Hollywood
+City: Hollywood, FL
+===============================
+===============================
+Date: 2019-04-20T20:00:00
+Name: St. Augustine Amphitheatre
+City: St Augustine, FL
+===============================
+===============================
+Date: 2019-04-22T19:30:00
+===============================
+City: Nashville, TN
+===============================
+===============================
+Date: 2019-04-24T20:00:00
+Name: Verizon Wireless Amphitheatre at Encore Park
+City: Alpharetta, GA
+===============================
+===============================
+Date: 2019-04-28T19:30:00
+Name: The Arkansas Music Pavilion
+City: Rogers, AR
+===============================
+===============================
+Date: 2019-05-15T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-17T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-18T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-19T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+Name: Grand Ole Opry
+Date: 2019-05-22T19:00:00
+===============================
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-24T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+===============================
+===============================
+City: Las Vegas, NV
+===============================
+===============================
+Date: 2019-05-25T19:00:00
+Name: House of Blues Las Vegas
+Name: House of Blues Las Vegas
+Date: 2019-05-26T19:00:00
+Name: House of Blues Las Vegas
+City: Las Vegas, NV
+===============================
+===============================
+===============================
+===============================
+Date: 2019-03-16T19:00:00
+Name: Foro Sol
+City: Mexico, 
+===============================
+Date: 2019-03-15T21:00:00
+Name: Auditorio Pabellón M
+City: Monterrey, 
+===============================
+Name: I Want It That Way
+Album: The Hits--Chapter One
+Artists: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=448e50065993424181d21715b160242b
+===============================
