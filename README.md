@@ -50,3 +50,16 @@ This parameter takes the information in the random.txt file and returns the foll
 - Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=448e50065993424181d21715b160242b
 
 ![alt text](images/do-what-it-says.gif "Random Text Search")
+
+
+
+# Technologies Utilized
+
+- JavaScript
+- Node.js
+- Inquirer
+
+
+## Author
+
+- Susye Weng-Reeder - *JavaScript/ Node.js/ Inquirer* - [Susye Weng-Reeder](https://eveasian88.github.io/Professional-Portfolio/ "Susye's Portfolio")
